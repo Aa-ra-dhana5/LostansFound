@@ -43,20 +43,22 @@ LostAndFoundPortal/
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/Aa-ra-dhana5/LostansFound.git
-Open in NetBeans IDE.
+2. Open in NetBeans IDE.
 
-Configure the MySQL database:
+3. Configure the MySQL database:
 
-Import the required schema (.sql file if available).
+     Import the required schema (.sql file if available).
 
-Update DB connection settings in com.lostfound.db.DBConnection.java.
+     Update DB connection settings in com.lostfound.db.DBConnection.java.
 
-Deploy the project on Apache Tomcat:
+4. Deploy the project on Apache Tomcat:
 
-Right-click project → Run
+   Right-click project → Run
 
-Ensure Tomcat is configured in NetBeans
+   Ensure Tomcat is configured in NetBeans
 
-🙋‍♀️ Author
-Aaradhana Parmar 
+---
+
+**🙋‍♀️ Author**
+-Aaradhana Parmar 
 L.D. College of Engineering
